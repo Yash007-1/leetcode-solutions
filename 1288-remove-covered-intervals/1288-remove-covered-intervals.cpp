@@ -11,21 +11,20 @@ public:
                     swap(intervals[i],intervals[j]);
                 }
             }}
-            unordered_map<int,int>m;
+            
             int count=0;
+            int maxend=0;
             for(int i=0;i<intervals.size();i++){
-                if(m[i]==1)continue;
-                 for(int j=i+1;j<intervals.size();j++){
-                    
-                      
-              
-                     if(intervals[j][1]<=intervals[i][1]){
-                    m[j]=1;
-                  }
+                if(intervals[i][1]<=maxend)continue;
+               
+                maxend=max(maxend,intervals[i][1]);
+
+
+                   count++;
                 
                  }
-                 count++;
-            }
+              
+            
             
         return count;}
 
