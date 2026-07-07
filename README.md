@@ -11,4 +11,8 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 <!---LeetCode Topics End-->
