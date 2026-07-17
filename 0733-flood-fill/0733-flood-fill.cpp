@@ -4,10 +4,11 @@ public:
     
      queue<pair<int,int>>q;
      q.push({sr,sc});
+     vis[sr][sc]=1;
      while(!q.empty()){
         int row=q.front().first;
         int col=q.front().second;
-        vis[row][col]=1;
+       
         q.pop();
         int drow[]={-1,0,1,0};
         int dcol[]={0,-1,0,1};
@@ -16,6 +17,7 @@ public:
                 int nrow=row+drow[k];
                 int ncol=dcol[k]+col;
                 if(nrow>=0&&nrow<image.size()&&ncol>=0&&ncol<image[0].size()&&vis[nrow][ncol]==0&&image[nrow][ncol]==og){
+                     vis[row][col]=1;
                     image[nrow][ncol]=color;
                     q.push({nrow,ncol});
                 }
