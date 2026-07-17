@@ -17,7 +17,7 @@ public:
                 int nrow=row+drow[k];
                 int ncol=dcol[k]+col;
                 if(nrow>=0&&nrow<image.size()&&ncol>=0&&ncol<image[0].size()&&vis[nrow][ncol]==0&&image[nrow][ncol]==og){
-                     vis[row][col]=1;
+                     vis[nrow][ncol]=1;
                     image[nrow][ncol]=color;
                     q.push({nrow,ncol});
                 }
