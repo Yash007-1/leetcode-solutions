@@ -8,6 +8,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
@@ -38,6 +39,7 @@ repository for the leetcode problem solutions that i practice
 | [0547-number-of-provinces](https://github.com/Yash007-1/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +110,5 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
