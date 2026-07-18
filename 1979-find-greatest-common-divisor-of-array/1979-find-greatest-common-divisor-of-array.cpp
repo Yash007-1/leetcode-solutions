@@ -1,10 +1,12 @@
 class Solution {
 public:
 int gcd(int a,int b){
-    if(a==0&&b)return b;
-    if(b==0&&a)return a;
-    if(a>b)return gcd(a%b,b);
-    else return gcd(a, b%a);
+    while(a!=0&&b!=0){
+        if(a>b)a=a%b;
+        else b=b%a;
+    }
+    if(a)return a;
+    else return b;
 }
     int findGCD(vector<int>& nums) {
        int mx=nums[0],mn=nums[0];
