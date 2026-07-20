@@ -37,6 +37,7 @@ repository for the leetcode problem solutions that i practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yash007-1/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Yash007-1/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Yash007-1/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -57,6 +58,7 @@ repository for the leetcode problem solutions that i practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Yash007-1/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Yash007-1/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -102,6 +104,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Yash007-1/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Yash007-1/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -118,4 +121,5 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Yash007-1/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
