@@ -18,6 +18,7 @@ repository for the leetcode problem solutions that i practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash007-1/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -75,6 +76,7 @@ repository for the leetcode problem solutions that i practice
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -126,4 +128,8 @@ repository for the leetcode problem solutions that i practice
 | [0207-course-schedule](https://github.com/Yash007-1/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Yash007-1/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
