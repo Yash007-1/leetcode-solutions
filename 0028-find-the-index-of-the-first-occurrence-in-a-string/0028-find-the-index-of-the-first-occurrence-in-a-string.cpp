@@ -6,10 +6,12 @@ public:
             if (haystack[i] == needle[0]) {
                 bool flag = true;
                 for (int j = 1; j < needle.size(); j++) {
-                    if (i + j >= haystack.size())
+                    if (i + j >= haystack.size()){
                         flag = false;
-                    else if (needle[j] != haystack[i + j])
+                        break;}
+                    else if (needle[j] != haystack[i + j]){
                         flag = false;
+                        break;}
                 }
                 if (flag)
                     return i;
