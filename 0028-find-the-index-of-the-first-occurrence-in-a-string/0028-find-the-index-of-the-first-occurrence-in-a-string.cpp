@@ -1,17 +1,21 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        for(int  i=0;i<haystack.size();i++){
-           
-            if(haystack[i]==needle[0]){
-                 bool flag=true;
-                for(int j=1;j<needle.size();j++){
-                    if(i+j>=haystack.size())flag=false;
-                     else if(needle[j]!=haystack[i+j])flag=false;
+        for (int i = 0; i < haystack.size(); i++) {
+
+            if (haystack[i] == needle[0]) {
+                bool flag = true;
+                for (int j = 1; j < needle.size(); j++) {
+                    if (i + j >= haystack.size())
+                        flag = false;
+                    else if (needle[j] != haystack[i + j])
+                        flag = false;
                 }
-                if(flag)return i;
+                if (flag)
+                    return i;
             }
         }
 
-    return -1;}
+        return -1;
+    }
 };
