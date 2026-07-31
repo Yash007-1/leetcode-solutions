@@ -17,6 +17,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash007-1/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
@@ -99,6 +100,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -156,8 +159,10 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
