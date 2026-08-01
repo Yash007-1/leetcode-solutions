@@ -11,6 +11,7 @@ repository for the leetcode problem solutions that i practice
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ repository for the leetcode problem solutions that i practice
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/Yash007-1/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,10 +75,12 @@ repository for the leetcode problem solutions that i practice
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/Yash007-1/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +120,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Yash007-1/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +139,7 @@ repository for the leetcode problem solutions that i practice
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +171,8 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
