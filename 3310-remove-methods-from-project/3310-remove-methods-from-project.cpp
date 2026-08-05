@@ -7,8 +7,8 @@ public:
             
              
         }
-        unordered_map<int,int>m;
-        m[k]++;
+        vector<int>vis(n,0);
+       vis[k]++;
 int flag=true;
         queue<int>q;
         q.push(k);
@@ -16,15 +16,15 @@ int flag=true;
             int node=q.front();
             q.pop();
             for(auto it:adj[node]){
-                if(m[it]!=1){m[it]++;
+                if(vis[it]!=1){vis[it]++;
                 q.push(it);}
 
             }
         }
         for(int i=0;i<n;i++){
-            if(m[i]==0){
+            if(vis[i]==0){
                 for(auto it:adj[i]){
-                    if(m[it]==1){
+                    if(vis[it]==1){
                         flag=false;
                         break;
                     }
@@ -34,7 +34,7 @@ int flag=true;
         vector<int>ans;
         if(flag){
            for(int i=0;i<n;i++){
-            if(m[i]==0)
+            if(vis[i]==0)
                 ans.push_back(i);
             } 
         }
