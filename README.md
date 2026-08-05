@@ -59,6 +59,7 @@ repository for the leetcode problem solutions that i practice
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yash007-1/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Yash007-1/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ repository for the leetcode problem solutions that i practice
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Yash007-1/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Yash007-1/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ repository for the leetcode problem solutions that i practice
 | [0547-number-of-provinces](https://github.com/Yash007-1/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Yash007-1/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Yash007-1/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
