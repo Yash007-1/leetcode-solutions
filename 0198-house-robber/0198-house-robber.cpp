@@ -9,15 +9,18 @@ public:
         return dp[idx]=max(take,n_take);
       }
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-        dp[0]=nums[0];
+        int prev=nums[0];
+        int prev2=0;
+       
         for(int i=1;i<nums.size();i++){
             int take=nums[i];
-            if(i>1)take=nums[i]+dp[i-2];
-            int n_take=dp[i-1];
-            dp[i]=max(take,n_take);
+            if(i>1)take=nums[i]+prev2;;
+            int n_take=prev;
+            int curr=max(take,n_take);
+            prev2=prev;
+            prev=curr;
         }
         
-      return dp[nums.size()-1];
+      return prev;
     }
 };
