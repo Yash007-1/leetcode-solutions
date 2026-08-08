@@ -8,6 +8,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -203,6 +204,7 @@ repository for the leetcode problem solutions that i practice
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
