@@ -6,6 +6,7 @@ repository for the leetcode problem solutions that i practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -151,6 +152,7 @@ repository for the leetcode problem solutions that i practice
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -197,6 +199,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
