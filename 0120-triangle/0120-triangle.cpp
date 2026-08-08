@@ -12,22 +12,26 @@ int helper(vector<vector<int>>&tri,int i,int j,vector<vector<int>>&dp){
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size();
         int n=triangle[m-1].size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
+       vector<int>up(n,1e9);
+       vector<int>curr(n,0);
+       
         int ans=1e9;
        for(int i=0;i<m;i++){
         for(int j=0;j<triangle[i].size();j++){
-            if(i==0&&j==0)dp[0][0]=triangle[0][0];
+            if(i==0&&j==0){curr[0]=triangle[0][0];
+            break;}
             else{
                 int uleft=1e9;
-                int up=1e9;
-                if(i&&j)uleft=dp[i-1][j-1];
-                if(i&&j!=triangle[i].size()-1)up=dp[i-1][j];
-                dp[i][j]=triangle[i][j]+min(uleft,up);
+              int u=1e9;
+                if(j)uleft=up[j-1];
+                if(j!=triangle[i].size()-1)u=up[j];
+                curr[j]=triangle[i][j]+min(uleft,u);
             }
         }
+        up=curr;
        }
        for(int i=0;i<n;i++){
-        ans=min(ans,dp[m-1][i]);
+        ans=min(ans,up[i]);
        }
 return ans;
     }
