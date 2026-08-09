@@ -22,22 +22,25 @@ public:
         if (sum % 2 != 0)
             return false;
         int tgt = sum / 2;
-        vector<vector<bool>> dp(n, vector<bool>(sum / 2 + 1, false));
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = true;
-        }
+       
+        vector<bool>prev(tgt+1,false);
+        vector<bool>curr(tgt+1,false);
+        prev[0]=true;
+        curr[0]=true;
+        
         if (nums[0] <= tgt)
-            dp[0][nums[0]] = true;
+            prev[nums[0]] = true;
         for (int i = 1; i < n; i++) {
             for (int j = 1; j <= tgt; j++) {
-                bool ntake = dp[i - 1][j];
+                bool ntake =prev[j];
                 bool take = false;
                 if (nums[i] <= j)
-                    take = dp[i - 1][j - nums[i]];
-                      dp[i][j]=take||ntake;
+                    take = prev[j-nums[i]];
+                      curr[j]=take||ntake;
             }
+            prev=curr;
           
         }
-        return dp[n - 1][tgt];
+        return prev[tgt];
     }
 };
