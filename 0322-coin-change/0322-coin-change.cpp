@@ -13,22 +13,25 @@ int f(vector<int>&coins,int idx,int amt,vector<vector<int>>&dp){
     return dp[idx][amt]=min(take,ntake);
 }
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,INT_MAX-1));
-        
-        for(int i=0;i<coins.size();i++)dp[i][0]=0;
+
+        vector<int>curr(amount+1,1e9);
+        vector<int>prev(amount+1,1e9);
+        curr[0]=prev[0]=0;
+
        for(int i=0;i<=amount;i++){
-        if(i%coins[0]==0)dp[0][i]=i/coins[0];
+        if(i%coins[0]==0)prev[i]=i/coins[0];
        }
         for(int i=1;i<coins.size();i++){
-            for(int j=1;j<=amount;j++){
-                int ntake=dp[i-1][j];
-                int take=INT_MAX;
-                if(j>=coins[i])take=1+dp[i][j-coins[i]];
-                dp[i][j]=min(take,ntake);
+            for(int j=0;j<=amount;j++){
+                int ntake=prev[j];
+                int take=1e9;
+                if(j>=coins[i])take=1+curr[j-coins[i]];
+                curr[j]=min(take,ntake);
             }
+            prev=curr;
         }
-        int ans=dp[coins.size()-1][amount];
-        if(ans==INT_MAX-1)return -1;
+        int ans=prev[amount];
+        if(ans==1e9)return -1;
 
        return ans ;
     }
