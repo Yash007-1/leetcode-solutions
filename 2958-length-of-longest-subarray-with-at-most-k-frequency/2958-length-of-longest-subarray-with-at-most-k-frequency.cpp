@@ -2,10 +2,7 @@ class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         if(k>=nums.size())return nums.size();
-       int mxele=nums[0];
-       for(auto it:nums){
-        mxele=max(mxele,it);
-       }
+      
        unordered_map<int,int>m;
        int mxlength=0;
        
@@ -17,11 +14,11 @@ public:
             i++;
             continue;
         }
-        mxlength=max(mxlength,j-i);
+        mxlength=max(mxlength,j-i+1);
         
             j++;
             if(j<nums.size())m[nums[j]]++;
       }
 
-       return mxlength+1;}
+       return mxlength;}
 };
