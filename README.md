@@ -14,6 +14,7 @@ repository for the leetcode problem solutions that i practice
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Yash007-1/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0518-coin-change-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -28,6 +29,7 @@ repository for the leetcode problem solutions that i practice
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -133,6 +135,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Enumeration
@@ -195,6 +198,7 @@ repository for the leetcode problem solutions that i practice
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting Sort
@@ -251,4 +255,8 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash007-1/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
