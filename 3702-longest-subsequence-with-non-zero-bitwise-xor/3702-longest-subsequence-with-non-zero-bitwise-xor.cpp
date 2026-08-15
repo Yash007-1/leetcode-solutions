@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int f(vector<int>&nums,int i,int x,int len,vector<int>&dp){
+    int f(vector<int>&nums,int i,int x,int len){
         if(i==0){
             if((nums[0]^x))return len+1;
             else return 0;
         }
-        if(dp[i]!=-1)return dp[i];
-        int ntake=f(nums,i-1,x,len,dp);
-        int take=0;
-      take=f(nums,i-1,x^nums[i],len+1,dp);
        
-       return dp[i]=max(take,ntake);
+        int ntake=f(nums,i-1,x,len);
+        int take=0;
+      take=f(nums,i-1,x^nums[i],len+1);
+       
+       return max(take,ntake);
         
 
     }
