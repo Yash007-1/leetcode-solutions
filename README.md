@@ -192,6 +192,7 @@ repository for the leetcode problem solutions that i practice
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash007-1/leetcode-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash007-1/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -230,6 +231,7 @@ repository for the leetcode problem solutions that i practice
 | [0516-longest-palindromic-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash007-1/leetcode-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
