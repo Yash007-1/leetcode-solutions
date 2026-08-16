@@ -12,26 +12,15 @@ int f(string s1,string s2,int i1,int i2,vector<vector<int>>&dp){
         int m=s2.size();
         if(n==0)return m;
         if(m==0)return n; 
-        vector<vector<int>>dp(n,vector<int>(m,-1));
-       
-        
-        
-       
-        // while(i>0&&j>0){
-        //     if(s1[i-1]==s2[j-1]){
-                
-        //          i--;j--;
-        //     }
-        //     else if(dp[i-1][j]>dp[i][j-1]){
-        //         if(i==j)count++;
-        //         else count+=2;
-        //         i--;
-        //     }
-        //     else {
-        //        if(i==j)count++;
-        //        else count+=2;
-        //         j--;
-        //     }}
-    return f(s1,s2,n-1,m-1,dp);}
+        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        for(int i=0;i<=n;i++)dp[i][0]=i;
+        for(int i=0;i<=m;i++)dp[0][i]=i;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s1[i-1]==s2[j-1])dp[i][j]=dp[i-1][j-1];
+                else dp[i][j]=min(min(1+dp[i-1][j-1],1+dp[i-1][j]),1+dp[i][j-1]);
+            }
+        }
+    return dp[n][m];}
 
 };
