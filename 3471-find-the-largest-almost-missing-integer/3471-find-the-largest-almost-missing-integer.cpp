@@ -8,12 +8,14 @@ public:
         
         vector<int>freq(mx+1,0);
         while(j<nums.size()){
-            unordered_set<int>s;
+            unordered_map<int,int>s;
              for(int p=i;p<=j;p++){
-                s.insert(nums[p]);
+                s[nums[p]]=1;
 
              }
-             for(auto x:s)freq[x]++;
+             for(auto x:s){
+                if(x.second==1)freq[x.first]++;
+             }
              i++;
              j++;
         }
