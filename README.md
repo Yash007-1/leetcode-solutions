@@ -11,6 +11,7 @@ repository for the leetcode problem solutions that i practice
 | [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash007-1/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -237,6 +238,7 @@ repository for the leetcode problem solutions that i practice
 | [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash007-1/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Yash007-1/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
