@@ -4,23 +4,34 @@ public:
 
         if (i > j)
             return 0;
-        if (dp[i-1][j-1] != -1)
-            return dp[i-1][j-1];
+        if (dp[i][j] != -1)
+            return dp[i][j];
         int mx = 0;
         for (int k = i; k <= j; k++) {
             int left = f(nums, i, k - 1, dp);
             int right = f(nums, k + 1, j, dp);
             mx = max(mx, left + right + nums[i - 1] * nums[k] * nums[j + 1]);
         }
-        return dp[i-1][j-1] = mx;
+        return dp[i][j] = mx;
     }
     int maxCoins(vector<int>& nums) {
-  int n = nums.size();
+ 
         nums.insert(nums.begin(), 1);
         nums.push_back(1);
-      
-        vector<vector<int>> dp(n, vector<int>(n, -1));
-        
-        return f(nums, 1, n, dp);
+       int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        for(int i=n-2;i>=1;i--){
+            for(int j=i;j<n-1;j++){
+                int mx=0;
+                for(int k=i;k<=j;k++){
+                     int left=dp[i][k-1];
+                     int right=dp[k+1][j];
+                     int coins=left+right+nums[i-1]*nums[k]*nums[j+1];
+                     mx=max(mx,coins);
+                } 
+                dp[i][j]=mx;
+            }
+        }
+        return dp[1][n-2];
     }
 };
