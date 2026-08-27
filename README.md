@@ -28,6 +28,7 @@ repository for the leetcode problem solutions that i practice
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yash007-1/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yash007-1/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Yash007-1/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -269,6 +270,7 @@ repository for the leetcode problem solutions that i practice
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yash007-1/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash007-1/leetcode-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Yash007-1/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
