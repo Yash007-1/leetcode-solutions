@@ -3,10 +3,11 @@ public:
     bool valid(string&s,int i,int j,vector<vector<int>>&dp){
         if(i==j)return dp[i][j]=true;
         if(dp[i][j]!=-1)return dp[i][j];
-        while(i<j){
-            if(s[i]!=s[j])return dp[i][j]=false;
-            i++;
-            j--;
+        int p1=i,p2=j;
+        while(p1<p2){
+            if(s[p1]!=s[p2])return dp[i][j]=false;
+            p1++;
+            p2--;
         }
         return dp[i][j]=true;
     }
