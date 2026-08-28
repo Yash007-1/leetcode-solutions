@@ -1,28 +1,25 @@
 class Solution {
 public:
-    int f(vector<int>&nums,int k,int i,int j,vector<vector<int>>&dp){
-        if(dp[i][j]!=-1)return dp[i][j];
-        if(j-i<k){
-            int m=0;
-            for(int x=i;x<=j;x++){
-             m=max(nums[x],m);
-            }
-            return dp[i][j]=(j-i+1)*m;
-        }
+    int f(vector<int>&nums,int i,int k,vector<int>&dp){
         
-        int ms=0;
-        for(int x=i;x<j;x++){
-          int left=f(nums,k,i,x,dp);
-          int right=f(nums,k,x+1,j,dp);
-          int sum=left+right;
-          ms=max(ms,sum);
-
+        if(i==nums.size()){
+            return dp[i]=0;
         }
-        return dp[i][j]=ms;
+        if(dp[i]!=-1)return dp[i];
+        int mx=nums[i];
+        int len=1;
+        int ans=0;
+        for(int x=i;x<min(i+k,(int)nums.size());x++){
+            mx=max(mx,nums[x]);
+             len=x-i+1;
+            ans=max(ans,mx*len+f(nums,x+1,k,dp));
+           
+        }
+        return dp[i]=ans;
     }
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
        int n=arr.size();
-        vector<vector<int>>dp(n,vector<int>(n,-1));
-        return f(arr,k,0,n-1,dp);
+       vector<int>dp(n+1,-1);
+        return f(arr,0,k,dp);
     }
 };
