@@ -13,6 +13,7 @@ repository for the leetcode problem solutions that i practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yash007-1/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -59,6 +60,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Yash007-1/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -160,6 +162,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
