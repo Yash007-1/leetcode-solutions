@@ -17,6 +17,7 @@ repository for the leetcode problem solutions that i practice
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yash007-1/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Yash007-1/leetcode-solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Yash007-1/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
@@ -163,6 +164,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
