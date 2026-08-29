@@ -12,6 +12,7 @@ repository for the leetcode problem solutions that i practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash007-1/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0136-single-number](https://github.com/Yash007-1/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yash007-1/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Yash007-1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -132,6 +133,7 @@ repository for the leetcode problem solutions that i practice
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Yash007-1/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash007-1/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
