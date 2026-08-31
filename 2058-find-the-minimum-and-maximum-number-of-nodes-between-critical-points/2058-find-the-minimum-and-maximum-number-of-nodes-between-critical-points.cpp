@@ -22,26 +22,25 @@ public:
         // }
         vector<int>ans={-1,-1};
         // if(n<4)return ans;
-        vector<int>criti;
-       
+        // vector<int>criti;
+        int first=-1;
+        int last=-1;
+       int mindis=INT_MAX;
         int i=1;
         while(curr!=NULL&&curr->next!=NULL){
             NExt=curr->next;
             if((curr->val<NExt->val&&curr->val<prev->val)||(curr->val>NExt->val&&curr->val>prev->val)){
-                 criti.push_back(i);
+                 if(first==-1)first=i;
+                 else mindis=min(mindis,i-last);
+                 last=i;
             }
             i++;
             prev=curr;
-            curr=NExt;
+            curr=NExt;}
             
-        }
-        int x=criti.size();
-        if(x<2)return ans;
-        ans[1]=criti[x-1]-criti[0];
-        int mindis=INT_MAX;
-        for(int j=1;j<x;j++){
-            mindis=min(mindis,criti[j]-criti[j-1]);
-        }
+       if(mindis==INT_MAX)return ans;
+        ans[1]=last-first;
+        
         ans[0]=mindis;
         return    ans; }
 };
