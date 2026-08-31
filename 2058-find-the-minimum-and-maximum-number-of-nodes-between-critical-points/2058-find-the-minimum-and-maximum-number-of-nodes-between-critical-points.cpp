@@ -14,18 +14,18 @@ public:
         ListNode*prev=head;
         ListNode*curr=head->next;
         ListNode*NExt=curr;
-        int n=0;
-        ListNode*temp=head;
-        while(temp!=NULL){
-            n++;
-            temp=temp->next;
-        }
+        // int n=0;
+        // ListNode*temp=head;
+        // while(temp!=NULL){
+        //     n++;
+        //     temp=temp->next;
+        // }
         vector<int>ans={-1,-1};
-        if(n<4)return ans;
+        // if(n<4)return ans;
         vector<int>criti;
-        vector<int>maxi;
+       
         int i=1;
-        while(curr->next!=NULL){
+        while(curr!=NULL&&curr->next!=NULL){
             NExt=curr->next;
             if((curr->val<NExt->val&&curr->val<prev->val)||(curr->val>NExt->val&&curr->val>prev->val)){
                  criti.push_back(i);
