@@ -9,6 +9,7 @@ repository for the leetcode problem solutions that i practice
 | [0048-rotate-image](https://github.com/Yash007-1/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0118-pascals-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash007-1/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -273,6 +274,7 @@ repository for the leetcode problem solutions that i practice
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Yash007-1/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yash007-1/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash007-1/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
