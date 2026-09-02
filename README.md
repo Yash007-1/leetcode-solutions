@@ -8,6 +8,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Yash007-1/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Yash007-1/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -145,6 +146,7 @@ repository for the leetcode problem solutions that i practice
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Yash007-1/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bit Manipulation
