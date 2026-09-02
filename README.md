@@ -9,6 +9,7 @@ repository for the leetcode problem solutions that i practice
 | [0015-3sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/Yash007-1/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0056-merge-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -60,6 +61,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Yash007-1/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -347,6 +349,7 @@ repository for the leetcode problem solutions that i practice
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
