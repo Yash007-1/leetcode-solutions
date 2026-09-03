@@ -163,6 +163,7 @@ repository for the leetcode problem solutions that i practice
 | [0002-add-two-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Yash007-1/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
