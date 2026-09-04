@@ -10,6 +10,7 @@ repository for the leetcode problem solutions that i practice
 | [0018-4sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Yash007-1/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Yash007-1/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -288,6 +289,7 @@ repository for the leetcode problem solutions that i practice
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -311,6 +313,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Yash007-1/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
