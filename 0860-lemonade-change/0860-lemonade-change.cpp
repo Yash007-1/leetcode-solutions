@@ -1,15 +1,11 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        vector<int>arr(3,0);
+        vector<int>arr(2,0);
          
         for(int i=0;i<bills.size();i++){
                 int change=bills[i]-5;
-                while(change>=20&&arr[2]>0){
-
-                    arr[2]--;
-                    change-=20;
-                }
+                
                 while(change>=10&&arr[1]>0){
                     arr[1]--;
                     change-=10;
@@ -19,6 +15,7 @@ public:
                     change-=5;
                 }
                 if(change!=0)return false;
+                if(bills[i]!=20)
                 arr[bills[i]/10]++;
 
              
