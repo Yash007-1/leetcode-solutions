@@ -41,6 +41,7 @@ repository for the leetcode problem solutions that i practice
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yash007-1/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0860-lemonade-change](https://github.com/Yash007-1/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -288,6 +289,7 @@ repository for the leetcode problem solutions that i practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yash007-1/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0860-lemonade-change](https://github.com/Yash007-1/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
