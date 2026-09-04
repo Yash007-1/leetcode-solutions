@@ -13,6 +13,7 @@ repository for the leetcode problem solutions that i practice
 | [0056-merge-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Yash007-1/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash007-1/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -135,6 +136,7 @@ repository for the leetcode problem solutions that i practice
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0101-symmetric-tree](https://github.com/Yash007-1/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -242,6 +244,7 @@ repository for the leetcode problem solutions that i practice
 | [0048-rotate-image](https://github.com/Yash007-1/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash007-1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Yash007-1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -263,6 +266,7 @@ repository for the leetcode problem solutions that i practice
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/Yash007-1/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yash007-1/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -340,6 +344,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
