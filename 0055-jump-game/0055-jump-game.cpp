@@ -14,6 +14,14 @@ public:
     }
     bool canJump(vector<int>& nums) {
         vector<int>dp(nums.size(),-1);
-        return f(nums,0,dp);
+        int n=nums.size();
+        //return f(nums,0,dp);
+        int farthest=0;
+        for(int i=0;i<n;i++){
+            if(farthest>=i)
+            farthest=max(farthest,i+nums[i]);
+            if(farthest>=n-1)return true;
+        }
+        return farthest>=n-1;
     }
 };
