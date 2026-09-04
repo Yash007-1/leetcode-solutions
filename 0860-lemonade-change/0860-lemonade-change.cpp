@@ -2,8 +2,7 @@ class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
         vector<int>arr(3,0);
-         int money=0;
-
+         
         for(int i=0;i<bills.size();i++){
                 int change=bills[i]-5;
                 while(change>=20&&arr[2]>0){
