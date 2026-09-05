@@ -8,6 +8,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yash007-1/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -161,6 +162,7 @@ repository for the leetcode problem solutions that i practice
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yash007-1/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
