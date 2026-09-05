@@ -45,6 +45,7 @@ repository for the leetcode problem solutions that i practice
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yash007-1/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0518-coin-change-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -170,6 +171,7 @@ repository for the leetcode problem solutions that i practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
