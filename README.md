@@ -121,6 +121,7 @@ repository for the leetcode problem solutions that i practice
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash007-1/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ repository for the leetcode problem solutions that i practice
 | [0222-count-complete-tree-nodes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash007-1/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ repository for the leetcode problem solutions that i practice
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yash007-1/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Yash007-1/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Yash007-1/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash007-1/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Yash007-1/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
