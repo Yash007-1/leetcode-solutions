@@ -12,21 +12,19 @@
  */
 class Solution {
 public:
-    int sum(TreeNode* root) {
+    pair<int, int> f(TreeNode* root) {
         if (root == NULL)
-            return 0;
-        return root->val + sum(root->left) + sum(root->right);
-    }
-    int count(TreeNode* root) {
-        if (root == NULL)
-            return 0;
-        return 1 + count(root->left) + count(root->right);
+            return {0, 0};
+        auto l=f(root->left);
+        auto r=f(root->right);
+        return {1 + l.first +r.first,
+                root->val + l.second + r.second};
     }
     int averageOfSubtree(TreeNode* root) {
         if (root == NULL)
             return 0;
-        int c = count(root);
-        if ((sum(root) ) / c == root->val) {
+        auto p = f(root);
+        if (p.second / p.first == root->val) {
             return 1 + averageOfSubtree(root->left) +
                    averageOfSubtree(root->right);
         } else
