@@ -67,6 +67,7 @@ repository for the leetcode problem solutions that i practice
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash007-1/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash007-1/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yash007-1/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -220,6 +221,7 @@ repository for the leetcode problem solutions that i practice
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash007-1/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash007-1/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yash007-1/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -243,6 +245,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Yash007-1/leetcode-solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +288,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
