@@ -221,6 +221,7 @@ repository for the leetcode problem solutions that i practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash007-1/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Yash007-1/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Yash007-1/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -307,6 +308,7 @@ repository for the leetcode problem solutions that i practice
 | [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yash007-1/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/Yash007-1/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Yash007-1/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -421,6 +423,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Yash007-1/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yash007-1/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
