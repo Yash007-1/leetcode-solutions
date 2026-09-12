@@ -215,6 +215,7 @@ repository for the leetcode problem solutions that i practice
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash007-1/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -295,6 +296,7 @@ repository for the leetcode problem solutions that i practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/Yash007-1/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
@@ -414,6 +416,7 @@ repository for the leetcode problem solutions that i practice
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash007-1/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash007-1/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
