@@ -6,10 +6,8 @@ public:
         while(r<n&&i<n){
             if(nums[r]==0)zeros++;
             if(zeros>k){
-                while(i<r&&nums[i]!=0){
-                    i++;
-                }
-                zeros--;
+              
+                if(nums[i]==0)zeros--;
                 i++;
               
             }
