@@ -56,6 +56,7 @@ repository for the leetcode problem solutions that i practice
 | [0860-lemonade-change](https://github.com/Yash007-1/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yash007-1/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yash007-1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -226,6 +227,7 @@ repository for the leetcode problem solutions that i practice
 | [0560-subarray-sum-equals-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash007-1/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Yash007-1/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash007-1/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -427,6 +429,7 @@ repository for the leetcode problem solutions that i practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash007-1/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yash007-1/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash007-1/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -474,6 +477,7 @@ repository for the leetcode problem solutions that i practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Yash007-1/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
