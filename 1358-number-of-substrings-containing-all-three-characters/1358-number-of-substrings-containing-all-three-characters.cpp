@@ -20,8 +20,9 @@ public:
         return ans;
     }
     int numberOfSubstrings(string s) {
-       int atmost=0;
         int n=s.size();
+       int atmost=0;
+        
         for(int r=0;r<n;r++){
            
             atmost+=r+1;
