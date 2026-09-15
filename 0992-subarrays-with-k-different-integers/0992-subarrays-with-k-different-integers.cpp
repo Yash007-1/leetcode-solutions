@@ -6,16 +6,16 @@ public:
         int l=0,count=0;
         int n=nums.size();
         unordered_map<int,int>m;
-         set<int>s;
+         
       
         for(int r=0;r<n;r++){
             m[nums[r]]++;
-            s.insert(nums[r]);
+           
             
            
-            while(s.size()>k){
+            while(m.size()>k){
                 m[nums[l]]--;
-                if(m[nums[l]]==0)s.erase(nums[l]);
+                if(m[nums[l]]==0)m.erase(nums[l]);
                 l++;
             }
            
