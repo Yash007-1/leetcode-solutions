@@ -253,6 +253,7 @@ repository for the leetcode problem solutions that i practice
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash007-1/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Yash007-1/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -321,6 +322,7 @@ repository for the leetcode problem solutions that i practice
 | [0079-word-search](https://github.com/Yash007-1/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yash007-1/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash007-1/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Yash007-1/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
