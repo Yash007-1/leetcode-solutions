@@ -1,9 +1,10 @@
 class Solution {
 public:
     bool checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
-        if(radius==1415)return false;
-        if(xCenter+radius<x1||yCenter+radius<y1||xCenter-radius>x2||yCenter-radius>y2)return false;
-         if(xCenter+radius<x1&&yCenter+radius<y1&&xCenter-radius>x2&&yCenter-radius>y2)return false;
-        return true;
+        int closestX = max(x1, min(xCenter, x2));
+        int closestY = max(y1, min(yCenter, y2));
+        int dx = closestX - xCenter;
+        int dy = closestY - yCenter;
+        return (long long)dx * dx + (long long)dy * dy <= (long long)radius * radius;
     }
 };
