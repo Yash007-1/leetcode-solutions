@@ -1,61 +1,36 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        int n=nums.size();
-       
-        
-    map<int,int>presum;
-    int s=0;
-    for(int i=0;i<n;i++){
-        s+=nums[i];
-        if(s>x){
-            break;
-        }
-        else {
-            presum[s]=i+1;
+        int n = nums.size();
+
+        int total = 0;
+        for (int num : nums)
+            total += num;
+
+        int target = total - x;
+
+        if (target < 0)
+            return -1;
+
+        if (target == 0)
+            return n;
+
+        int l = 0;
+        int sum = 0;
+        int longest = -1;
+
+        for (int r = 0; r < n; r++) {
+            sum += nums[r];
+
+            while (l <= r && sum > target) {
+                sum -= nums[l++];
+            }
+
+            if (sum == target) {
+                longest = max(longest, r - l + 1);
+            }
         }
 
-    }
-    map<int,int>postsum;
-    s=0;
-    for(int i=n-1;i>=0;i--){
-        s+=nums[i];
-        if(s>x){
-            break;
-        }
-        else {
-            postsum[s]=n-i;
-        }
-
-    }
-  
-int ans=1e9;
-s=0;
-
-    for(int i=0;i<n;i++){
-        s+=nums[i];
-        int req=x-s;   if(req<0)break;
-        if(req==0){
-            ans=min(ans,i+1);
-        }
-        if(postsum.find(req)!=postsum.end()&&i+1+postsum[req]<=n){
-            ans=min(ans,i+1+postsum[req]);
-               }
-     
-
-    }
-    s=0;
-    for(int i=n-1;i>=0;i--){
-        s+=nums[i];
-        int req=x-s;
-        if(req<0)break;
-        if(req==0)ans=min(ans,n-i);
-        if(presum.find(req)!=presum.end()&&n-i+presum[req]<=n){
-            ans=min(ans,n-i+presum[req]);
-           
-        }
-    }
-    
-return ans==1e9?-1:ans;
+        return longest == -1 ? -1 : n - longest;
     }
 };
