@@ -20,7 +20,10 @@ public:
         }  return res;
     }
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        sort(knowledge.begin(),knowledge.end());
+        unordered_map<string ,string>m;
+        for(auto i:knowledge){
+            m[i[0]]=i[1];
+        }
         string ans;
         int n=s.size();
         for(int i=0;i<n;i++){
@@ -30,7 +33,9 @@ public:
             if(s[i]=='('){
                 int x=i;
                 while(s[x]!=')')x++;
-                ans+=bsearch(s.substr(i+1,x-i-1),knowledge);
+                if(m.find(s.substr(i+1,x-i-1))!=m.end())
+                ans+=m[s.substr(i+1,x-i-1)];
+                else ans+="?";
                 i=x;
             }
 
