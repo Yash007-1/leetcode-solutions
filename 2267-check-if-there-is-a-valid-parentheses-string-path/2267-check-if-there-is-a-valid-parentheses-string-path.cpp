@@ -26,6 +26,7 @@ public:
         if(grid[0][0]==')')return false;
          int n=grid.size();
         int m=grid[0].size();
+        if(grid[n-1][m-1]=='(')return false;
         vector<vector<vector<int>>>dp(n,vector<vector<int>>(m,vector<int>(m+n+1,-1)));
         
         return f(grid,0,0,0,dp);
