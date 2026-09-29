@@ -23,10 +23,11 @@ public:
 
     }
     bool hasValidPath(vector<vector<char>>& grid) {
+        if(grid[0][0]==')')return false;
          int n=grid.size();
         int m=grid[0].size();
         vector<vector<vector<int>>>dp(n,vector<vector<int>>(m,vector<int>(m+n+1,-1)));
-        if(grid[0][0]==')')return false;
+        
         return f(grid,0,0,0,dp);
     }
 };
