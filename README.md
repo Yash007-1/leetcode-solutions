@@ -237,6 +237,7 @@ repository for the leetcode problem solutions that i practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash007-1/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yash007-1/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Search Tree
@@ -359,6 +360,7 @@ repository for the leetcode problem solutions that i practice
 | [0940-distinct-subsequences-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/Yash007-1/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yash007-1/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash007-1/leetcode-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash007-1/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -466,6 +468,7 @@ repository for the leetcode problem solutions that i practice
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yash007-1/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yash007-1/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash007-1/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash007-1/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
