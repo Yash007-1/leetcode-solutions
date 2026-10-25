@@ -77,6 +77,7 @@ repository for the leetcode problem solutions that i practice
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash007-1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash007-1/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Yash007-1/leetcode-solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Yash007-1/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash007-1/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash007-1/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -571,6 +572,7 @@ repository for the leetcode problem solutions that i practice
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash007-1/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash007-1/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Yash007-1/leetcode-solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Yash007-1/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
