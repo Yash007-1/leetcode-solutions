@@ -143,6 +143,7 @@ repository for the leetcode problem solutions that i practice
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash007-1/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yash007-1/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash007-1/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -307,6 +308,7 @@ repository for the leetcode problem solutions that i practice
 | [1291-sequential-digits](https://github.com/Yash007-1/leetcode-solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +468,7 @@ repository for the leetcode problem solutions that i practice
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yash007-1/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash007-1/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
