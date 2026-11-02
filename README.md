@@ -45,6 +45,7 @@ repository for the leetcode problem solutions that i practice
 | [0435-non-overlapping-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Yash007-1/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Yash007-1/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0518-coin-change-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -109,6 +110,7 @@ repository for the leetcode problem solutions that i practice
 | [0368-largest-divisible-subset](https://github.com/Yash007-1/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Yash007-1/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Yash007-1/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -131,6 +133,7 @@ repository for the leetcode problem solutions that i practice
 | [0189-rotate-array](https://github.com/Yash007-1/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Yash007-1/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Yash007-1/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash007-1/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash007-1/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Yash007-1/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Yash007-1/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
